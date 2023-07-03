@@ -1,131 +1,131 @@
 {
-    "skills": [
-            {
-               "ID": 1,
-               "title": "HTML",
-               "icon": "<i class='fa-brands fa-html5 fa-2xl' style='color: #84a7a1;'></i>"
-            },
-            {
-               "ID": 2,
-               "title": "CSS",
-               "icon": "<i class='fa-brands fa-css3-alt fa-2xl' style='color: #84a7a1';></i>"
-            },
-            {
-               "ID": 3,
-               "title": "BOOTSTRAP",
-               "icon": "<i class='fa-brands fa-bootstrap fa-2xl' style='color: #84a7a1;'></i>"
-            },
-            {
-               "ID": 4,
-               "title": "JAVASCRIPT",
-               "icon": "<i class='fa-brands fa-square-js fa-2xl' style='color: #84a7a1;'></i>"
-            },
-            {
-               "ID": 5,
-               "title": "VUEJS",
-               "icon": "<i class='fa-brands fa-vuejs fa-2xl' style='color: #84a7a1;'></i>"
-            }
-    ],
-    "education": [
-       {
-        "ID": 1,
-        "title": "Rylands High School",
-        "year": "2018-2022",
-        "description": "I attended Rylands High School and passed with a Bachelors Pass."
-       },
-       {
-        "ID": 2,
-        "title": "Life Choices Academy",
-        "year": "April 2023-Present",
-        "description": "I am currently enrolled on a Web Development course at Life Choices"
-       }
-    ],
-    "projects": [
-          {
-            "ID": 1,
-            "Title": "BMI Calculator",
-            "Image": "https://i.postimg.cc/g2nMh7jn/Screenshot_2023-07-01_104705.png",
-            "Desctiption": "I have built and deployed a BMI (Body, Mass, Index) calculator using HTML5, CSS3 and JavaScript ES6.",
-            "Netlify": "https://rayhaan-bmicalculator.netlify.app",
-            "GitHub": "https://github.com/RayhaanK/BMIcalculator.git"
-          },
-          {
-            "ID": 2,
-            "Title": "Calculator",
-            "Image": "https://i.postimg.cc/g25FfRQB/Screenshot_2023-07-01_105724.png",
-            "Desctiption": "I have built and deployed a calculator using HTML5, CSS3 and JavaScript ES6.",
-            "Netlify": "https://rayhaan-calculator.netlify.app",
-            "GitHub": "https://github.com/RayhaanK/Calculator.git"
-          },
-          {
-            "ID": 3,
-            "Title": "Point of Sale System",
-            "Image": "https://i.postimg.cc/qR2Ntp24/Screenshot_2023-07-01_105940.png",
-            "Desctiption": "I have built and deployed a POS (Point of Sale) System using HTML5, CSS3, BOOTSTRAP and JavaScript ES6 where I was selling technology such as gaming consoles, video games and gaming controllers.",
-            "Netlify": "https://rayhaan-calculator.netlify.app",
-            "GitHub": "https://github.com/RayhaanK/Calculator.git"
-          },
-          {
-            "ID": 4,
-            "Title": "First Portfolio",
-            "Image": "https://i.postimg.cc/hvpV2VM2/Screenshot_2023-07-01_112657.png",
-            "Desctiption": "I have built and deployed my first portfolio website using HTML5, CSS3 and BOOTSTRAP.",
-            "Netlify": "https://rayhaansportfolio.netlify.app",
-            "GitHub": "https://github.com/RayhaanK/bootstap_Portfolio.git"
-          },
-          {
-            "ID": 5,
-            "Title": "Land Of Code Of Programming",
-            "Image": "https://i.postimg.cc/RFP08G5J/Screenshot_2023-07-01_112815.png",
-            "Desctiption": "I have built and deployed a replica of a website called Land Of Code Programming using HTML5, CSS3.",
-            "Netlify": "https://landofcodeprogramming.netlify.app",
-            "GitHub": "https://github.com/RayhaanK/website_replica.git"
-          },
-          {
-            "ID": 6,
-            "Title": "Cineplex",
-            "Image": "https://i.postimg.cc/3w9BTTry/cineplex-Website.png",
-            "Desctiption": "I have built and deployed a home page to a made up streaming website using HTML5, CSS3.",
-            "Netlify": "https://cineplexhome.netlify.app",
-            "GitHub": "https://github.com/RayhaanK/cineplex_Home.git"
-          }
-    ],
-     "testimonials": [
-           {
-            "ID": 1,
-            "Name": "Imraan Bernksen",
-            "Image": "https://i.postimg.cc/4d1Z8FjW/t0.jpg",
-            "Content": "I highly recommend Rayhaan Khan, an aspiring web developer with a passion for creating stunning and functional websites. Rayhaan has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies. Their attention to detail and commitment to delivering high-quality work make them an excellent choice for any web development project."
-           },
-           {
-            "ID": 2,
-            "Name": "Laiquah Cotie",
-            "Image": "https://i.postimg.cc/5Nvjcv6v/C12-Laiquah-Cotie.jpg",
-            "Content": "Rayhaan is a hard-worker. He's a very focused and quiet person but if you need him to do anything or even help with anything his always willing to. He's always punctual when it comes to tasks, Rayhaan is one person you'll never have to wait on for anything. He does things to the best of his ability and will put in extra to just make sure that what he does is up to your standards. Rayhaan is very motivated and eager to learn more. He is definitely someone you'd want on your team."
-           },
-           {
-            "ID": 3,
-            "Name": "Nuraan Samodien",
-            "Image": "https://i.postimg.cc/KYVRS5rP/C12-C2-Nuraan-Samsodien.jpg",
-            "Content": "Rayhaan is a highly thought intellectual from my perspective. He is passionate, ambitious, hardworking and always provides a helping hand to anyone who needs it. He has great communication and leadership skills and any company would be lucky to have him on their team."
-           },
-           {
-            "ID": 4,
-            "Name": "Ganiefah Majiet",
-            "Image": "https://i.postimg.cc/wTNPCsTg/Screenshot-2023-05-03-100656.png",
-            "Content": "Rayhaan is someone who I would definitely recommend. He's always positive and willing to help the next person although he's busy himself, he's intelligent and very hardworking. He is always positive and he always provides everyone with help and motivation."
-           },
-           {
-            "ID": 5,
-            "Name": "Eighton-Lee Paulse",
-            "Image": "https://i.postimg.cc/9MTsXWTx/C12-C2-Eighton-Lee-Paulse.jpg",
-            "Content": "Rayhaan is a very intuitive and intelligent person. I've learnt so much from him. He's very assertive and knows what's right and wrong. His motivation is also unmatched and he is very good at what he does. He's honestly one of the smartest people I know and I would recommend him because he is very good at what he does."
-           },
-           {
-            "ID": 6,
-            "Name": "Justin Scholtz",
-            "Image": "https://i.postimg.cc/9MTsXWTx/C12-C2-Eighton-Lee-Paulse.jpg",
-            "Content": "Rayhaan is a very intuitive and intelligent person. I've learnt so much from him. He's very assertive and knows what's right and wrong. His motivation is also unmatched and he is very good at what he does. He's honestly one of the smartest people I know and I would recommend him because he is very good at what he does."
-           }
-     ]
+  "skills": [
+    {
+      "ID": 1,
+      "title": "HTML",
+      "icon": "fa-brands fa-html5 fa-2xl"
+    },
+    {
+      "ID": 2,
+      "title": "CSS",
+      "icon": "fa-brands fa-css3-alt fa-2xl"
+    },
+    {
+      "ID": 3,
+      "title": "BOOTSTRAP",
+      "icon": "fa-brands fa-bootstrap fa-2x"
+    },
+    {
+      "ID": 4,
+      "title": "JAVASCRIPT",
+      "icon": "fa-brands fa-square-js fa-2xl"
+    },
+    {
+      "ID": 5,
+      "title": "VUEJS",
+      "icon": "fa-brands fa-vuejs fa-2xl"
+    }
+  ],
+  "education": [
+    {
+      "ID": 1,
+      "title": "Rylands High School",
+      "year": "2018-2022",
+      "description": "I attended Rylands High School and passed with a Bachelors Pass."
+    },
+    {
+      "ID": 2,
+      "title": "Life Choices Academy",
+      "year": "April 2023-Present",
+      "description": "I am currently enrolled on a Web Development course at Life Choices"
+    }
+  ],
+  "projects": [
+    {
+      "ID": 1,
+      "Title": "BMI Calculator",
+      "Image": "https://i.postimg.cc/g2nMh7jn/Screenshot_2023-07-01_104705.png",
+      "Desctiption": "I have built and deployed a BMI (Body, Mass, Index) calculator using HTML5, CSS3 and JavaScript ES6.",
+      "Netlify": "https://rayhaan-bmicalculator.netlify.app",
+      "GitHub": "https://github.com/RayhaanK/BMIcalculator.git"
+    },
+    {
+      "ID": 2,
+      "Title": "Calculator",
+      "Image": "https://i.postimg.cc/g25FfRQB/Screenshot_2023-07-01_105724.png",
+      "Desctiption": "I have built and deployed a calculator using HTML5, CSS3 and JavaScript ES6.",
+      "Netlify": "https://rayhaan-calculator.netlify.app",
+      "GitHub": "https://github.com/RayhaanK/Calculator.git"
+    },
+    {
+      "ID": 3,
+      "Title": "Point of Sale System",
+      "Image": "https://i.postimg.cc/qR2Ntp24/Screenshot_2023-07-01_105940.png",
+      "Desctiption": "I have built and deployed a POS (Point of Sale) System using HTML5, CSS3, BOOTSTRAP and JavaScript ES6 where I was selling technology such as gaming consoles, video games and gaming controllers.",
+      "Netlify": "https://rayhaan-calculator.netlify.app",
+      "GitHub": "https://github.com/RayhaanK/Calculator.git"
+    },
+    {
+      "ID": 4,
+      "Title": "First Portfolio",
+      "Image": "https://i.postimg.cc/hvpV2VM2/Screenshot_2023-07-01_112657.png",
+      "Desctiption": "I have built and deployed my first portfolio website using HTML5, CSS3 and BOOTSTRAP.",
+      "Netlify": "https://rayhaansportfolio.netlify.app",
+      "GitHub": "https://github.com/RayhaanK/bootstap_Portfolio.git"
+    },
+    {
+      "ID": 5,
+      "Title": "Land Of Code Of Programming",
+      "Image": "https://i.postimg.cc/RFP08G5J/Screenshot_2023-07-01_112815.png",
+      "Desctiption": "I have built and deployed a replica of a website called Land Of Code Programming using HTML5, CSS3.",
+      "Netlify": "https://landofcodeprogramming.netlify.app",
+      "GitHub": "https://github.com/RayhaanK/website_replica.git"
+    },
+    {
+      "ID": 6,
+      "Title": "Cineplex",
+      "Image": "https://i.postimg.cc/3w9BTTry/cineplex-Website.png",
+      "Desctiption": "I have built and deployed a home page to a made up streaming website using HTML5, CSS3.",
+      "Netlify": "https://cineplexhome.netlify.app",
+      "GitHub": "https://github.com/RayhaanK/cineplex_Home.git"
+    }
+  ],
+  "testimonials": [
+    {
+      "ID": 1,
+      "Name": "Imraan Bernksen",
+      "Image": "https://i.postimg.cc/4d1Z8FjW/t0.jpg",
+      "Content": "I highly recommend Rayhaan Khan, an aspiring web developer with a passion for creating stunning and functional websites. Rayhaan has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies. Their attention to detail and commitment to delivering high-quality work make them an excellent choice for any web development project."
+    },
+    {
+      "ID": 2,
+      "Name": "Laiquah Cotie",
+      "Image": "https://i.postimg.cc/5Nvjcv6v/C12-Laiquah-Cotie.jpg",
+      "Content": "Rayhaan is a hard-worker. He's a very focused and quiet person but if you need him to do anything or even help with anything his always willing to. He's always punctual when it comes to tasks, Rayhaan is one person you'll never have to wait on for anything. He does things to the best of his ability and will put in extra to just make sure that what he does is up to your standards. Rayhaan is very motivated and eager to learn more. He is definitely someone you'd want on your team."
+    },
+    {
+      "ID": 3,
+      "Name": "Nuraan Samodien",
+      "Image": "https://i.postimg.cc/KYVRS5rP/C12-C2-Nuraan-Samsodien.jpg",
+      "Content": "Rayhaan is a highly thought intellectual from my perspective. He is passionate, ambitious, hardworking and always provides a helping hand to anyone who needs it. He has great communication and leadership skills and any company would be lucky to have him on their team."
+    },
+    {
+      "ID": 4,
+      "Name": "Ganiefah Majiet",
+      "Image": "https://i.postimg.cc/wTNPCsTg/Screenshot-2023-05-03-100656.png",
+      "Content": "Rayhaan is someone who I would definitely recommend. He's always positive and willing to help the next person although he's busy himself, he's intelligent and very hardworking. He is always positive and he always provides everyone with help and motivation."
+    },
+    {
+      "ID": 5,
+      "Name": "Eighton-Lee Paulse",
+      "Image": "https://i.postimg.cc/9MTsXWTx/C12-C2-Eighton-Lee-Paulse.jpg",
+      "Content": "Rayhaan is a very intuitive and intelligent person. I've learnt so much from him. He's very assertive and knows what's right and wrong. His motivation is also unmatched and he is very good at what he does. He's honestly one of the smartest people I know and I would recommend him because he is very good at what he does."
+    },
+    {
+      "ID": 6,
+      "Name": "Justin Scholtz",
+      "Image": "https://i.postimg.cc/9MTsXWTx/C12-C2-Eighton-Lee-Paulse.jpg",
+      "Content": "Rayhaan is a very intuitive and intelligent person. I've learnt so much from him. He's very assertive and knows what's right and wrong. His motivation is also unmatched and he is very good at what he does. He's honestly one of the smartest people I know and I would recommend him because he is very good at what he does."
+    }
+  ]
 }
