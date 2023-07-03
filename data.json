@@ -3,27 +3,27 @@
     {
       "ID": 1,
       "title": "HTML",
-      "icon": "fa-brands fa-html5 fa-2xl"
+      "icon": "fa-brands fa-html5 fa-10x"
     },
     {
       "ID": 2,
       "title": "CSS",
-      "icon": "fa-brands fa-css3-alt fa-2xl"
+      "icon": "fa-brands fa-css3-alt fa-10x"
     },
     {
       "ID": 3,
       "title": "BOOTSTRAP",
-      "icon": "fa-brands fa-bootstrap fa-2x"
+      "icon": "fa-brands fa-bootstrap fa-10x"
     },
     {
       "ID": 4,
       "title": "JAVASCRIPT",
-      "icon": "fa-brands fa-square-js fa-2xl"
+      "icon": "fa-brands fa-square-js fa-10x"
     },
     {
       "ID": 5,
       "title": "VUEJS",
-      "icon": "fa-brands fa-vuejs fa-2xl"
+      "icon": "fa-brands fa-vuejs fa-10x"
     }
   ],
   "education": [
