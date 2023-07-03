@@ -3,27 +3,27 @@
             {
                "ID": 1,
                "title": "HTML",
-               "icon": "<font-awesome-icon :icon="['fab', 'html5']" size="2xl" style="color: #84a7a1;" />"
+               "icon": "<i class="fa-brands fa-html5 fa-2xl" style="color: #84a7a1;"></i>"
             },
             {
                "ID": 2,
                "title": "CSS",
-               "icon": "<font-awesome-icon :icon="['fab', 'css3-alt']" size="2xl" style="color: #84a7a1;" />"
+               "icon": "<i class="fa-brands fa-css3-alt fa-2xl" style="color: #84a7a1;"></i>"
             },
             {
                "ID": 3,
                "title": "BOOTSTRAP",
-               "icon": "<font-awesome-icon :icon="['fab', 'bootstrap']" size="2xl" style="color: #84a1a7;" />"
+               "icon": "<i class="fa-brands fa-bootstrap fa-2xl" style="color: #84a7a1;"></i>"
             },
             {
                "ID": 4,
                "title": "JAVASCRIPT",
-               "icon": "<font-awesome-icon :icon="['fab', 'square-js']" size="2xl" style="color: #84a1a7;" />"
+               "icon": "<i class="fa-brands fa-square-js fa-2xl" style="color: #84a7a1;"></i>"
             },
             {
                "ID": 5,
                "title": "VUEJS",
-               "icon": "<font-awesome-icon :icon="['fab', 'vuejs']" size="2xl" style="color: #84a1a7;" />"
+               "icon": "<i class="fa-brands fa-vuejs fa-2xl" style="color: #84a7a1;"></i>"
             }
     ],
     "education": [
