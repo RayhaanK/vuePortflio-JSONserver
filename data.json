@@ -45,7 +45,7 @@
       "ID": 1,
       "Title": "BMI Calculator",
       "Image": "https://i.postimg.cc/g2nMh7jn/Screenshot_2023-07-01_104705.png",
-      "Desctiption": "I have built and deployed a BMI (Body, Mass, Index) calculator using HTML5, CSS3 and JavaScript ES6.",
+      "Description": "I have built and deployed a BMI (Body, Mass, Index) calculator using HTML5, CSS3 and JavaScript ES6.",
       "Netlify": "https://rayhaan-bmicalculator.netlify.app",
       "GitHub": "https://github.com/RayhaanK/BMIcalculator.git"
     },
@@ -53,7 +53,7 @@
       "ID": 2,
       "Title": "Calculator",
       "Image": "https://i.postimg.cc/g25FfRQB/Screenshot_2023-07-01_105724.png",
-      "Desctiption": "I have built and deployed a calculator using HTML5, CSS3 and JavaScript ES6.",
+      "Description": "I have built and deployed a calculator using HTML5, CSS3 and JavaScript ES6.",
       "Netlify": "https://rayhaan-calculator.netlify.app",
       "GitHub": "https://github.com/RayhaanK/Calculator.git"
     },
@@ -61,7 +61,7 @@
       "ID": 3,
       "Title": "Point of Sale System",
       "Image": "https://i.postimg.cc/qR2Ntp24/Screenshot_2023-07-01_105940.png",
-      "Desctiption": "I have built and deployed a POS (Point of Sale) System using HTML5, CSS3, BOOTSTRAP and JavaScript ES6 where I was selling technology such as gaming consoles, video games and gaming controllers.",
+      "Description": "I have built and deployed a POS (Point of Sale) System using HTML5, CSS3, BOOTSTRAP and JavaScript ES6 where I was selling technology such as gaming consoles, video games and gaming controllers.",
       "Netlify": "https://rayhaan-calculator.netlify.app",
       "GitHub": "https://github.com/RayhaanK/Calculator.git"
     },
@@ -69,7 +69,7 @@
       "ID": 4,
       "Title": "First Portfolio",
       "Image": "https://i.postimg.cc/hvpV2VM2/Screenshot_2023-07-01_112657.png",
-      "Desctiption": "I have built and deployed my first portfolio website using HTML5, CSS3 and BOOTSTRAP.",
+      "Description": "I have built and deployed my first portfolio website using HTML5, CSS3 and BOOTSTRAP.",
       "Netlify": "https://rayhaansportfolio.netlify.app",
       "GitHub": "https://github.com/RayhaanK/bootstap_Portfolio.git"
     },
@@ -77,7 +77,7 @@
       "ID": 5,
       "Title": "Land Of Code Of Programming",
       "Image": "https://i.postimg.cc/RFP08G5J/Screenshot_2023-07-01_112815.png",
-      "Desctiption": "I have built and deployed a replica of a website called Land Of Code Programming using HTML5, CSS3.",
+      "Description": "I have built and deployed a replica of a website called Land Of Code Programming using HTML5, CSS3.",
       "Netlify": "https://landofcodeprogramming.netlify.app",
       "GitHub": "https://github.com/RayhaanK/website_replica.git"
     },
@@ -85,7 +85,7 @@
       "ID": 6,
       "Title": "Cineplex",
       "Image": "https://i.postimg.cc/3w9BTTry/cineplex-Website.png",
-      "Desctiption": "I have built and deployed a home page to a made up streaming website using HTML5, CSS3.",
+      "Description": "I have built and deployed a home page to a made up streaming website using HTML5, CSS3.",
       "Netlify": "https://cineplexhome.netlify.app",
       "GitHub": "https://github.com/RayhaanK/cineplex_Home.git"
     }
