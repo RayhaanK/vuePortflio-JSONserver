@@ -62,8 +62,8 @@
       "Title": "Point of Sale System",
       "Image": "https://i.postimg.cc/qR2Ntp24/Screenshot_2023-07-01_105940.png",
       "Description": "I have built and deployed a POS (Point of Sale) System using HTML5, CSS3, BOOTSTRAP and JavaScript ES6.",
-      "Netlify": "https://rayhaan-calculator.netlify.app",
-      "GitHub": "https://github.com/RayhaanK/Calculator.git"
+      "Netlify": "https://rayhaan-js-endofmodule-project.netlify.app/",
+      "GitHub": "https://github.com/RayhaanK/endOfModule-JS.git"
     },
     {
       "ID": 4,
@@ -123,9 +123,9 @@
     },
     {
       "ID": 6,
-      "Name": "Justin Scholtz",
-      "Image": "https://i.postimg.cc/9MTsXWTx/C12-C2-Eighton-Lee-Paulse.jpg",
-      "Content": "Rayhaan is a very intuitive and intelligent person. I've learnt so much from him. He's very assertive and knows what's right and wrong. His motivation is also unmatched and he is very good at what he does. He's honestly one of the smartest people I know and I would recommend him because he is very good at what he does."
+      "Name": "Abdul-Azeez Kemp",
+      "Image": "https://i.postimg.cc/50gf9NdK/Screenshot-20221101-100639-edit-159098746871600.jpg",
+      "Content": "Rayhaan Khan is truly inspiring, with an unwavering commitment to their goals and an exceptional work ethic. They have a huge passion for technology and a remarkable ability to connect with others in any environment. Rayhaan's acts of kindness and genuine care for others demonstrate their exceptional character. They consistently go above and beyond, leaving a positive and lasting impact on everyone they encounter."
     }
   ]
 }
