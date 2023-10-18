@@ -62,9 +62,9 @@
     {
       "ID": 1,
       "Title": "Surpass Fitness",
-      "Image": "https://i.postimg.cc/g25FfRQB/Screenshot_2023-07-01_105724.png",
+      "Image": "https://i.postimg.cc/Ghp7D6Zv/Surpass-Fitness.png",
       "Description": "I have built and deployed an E-commerce website called Surpass Fitness using HTML5, CSS3, Bootstrap, Javascript, VueJS, NodeJS, and MySQL.",
-      "Netlify": "https://i.postimg.cc/Ghp7D6Zv/Surpass-Fitness.png",
+      "Netlify": "https://surpass-fitness.web.app/",
       "GitHub": "https://github.com/RayhaanK/Surpass-Fitness.git"
     },
     {
