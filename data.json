@@ -19,21 +19,21 @@
       "title": "BOOTSTRAP",
       "icon": "fa-brands fa-bootstrap fa-7x",
       "mastery": "Expert",
-      "description": "I experience with Bootstrap was fun. Being introduced to coloumns, rows and containers changed everything for me. It allowed me to work way faster than i did before. "
+      "description": "My experience with Bootstrap was fun. Being introduced to columns, rows, and containers changed everything for me. It allowed me to work way faster than I did before. "
     },
     {
       "ID": 4,
       "title": "JAVASCRIPT",
       "icon": "fa-brands fa-square-js fa-7x",
       "mastery": "Advanced",
-      "description": "Going in to Javascript I did not know what to expect, but as I carried on learning it opened my world to many more ideas and ways to add functionality to my page."
+      "description": "Going into Javascript I did not know what to expect, but as I carried on learning it opened my world to many more ideas and ways to add functionality to my page."
     },
     {
       "ID": 5,
       "title": "VUEJS",
       "icon": "fa-brands fa-vuejs fa-7x",
       "mastery": "Advanced",
-      "description": "Just as I thought Javascript was mind blowing, Vue.js appeared and blew my mind even further. With the use of components and the store, it made everything even easier than it was before."
+      "description": "Just as I thought Javascript was mind-blowing, Vue.js appeared and blew my mind even further. With the use of components and the store, it made everything even easier than it was before."
     }
   ],
   "education": [
@@ -46,58 +46,66 @@
     {
       "ID": 2,
       "title": "Life Choices Academy",
-      "year": "April 2023-Present",
-      "description": "I am currently enrolled on a Web Development course at Life Choices"
+      "year": "April 2023-September 2023",
+      "description": "I finished a 6-month Full Stack Web Development Course at Life Choices Academy and achieved a certificate."
     }
+  ],
+  "experience": [
+  {
+    "ID": 1,
+    "title": "Life Choices Studio",
+    "year": "October 2023-Present",
+    "description": "I am currently an intern at Life Choices Studio"
+  }    
   ],
   "projects": [
     {
       "ID": 1,
-      "Title": "BMI Calculator",
-      "Image": "https://i.postimg.cc/g2nMh7jn/Screenshot_2023-07-01_104705.png",
-      "Description": "I have built and deployed a BMI (Body, Mass, Index) calculator using HTML5, CSS3 and JavaScript ES6.",
-      "Netlify": "https://rayhaan-bmicalculator.netlify.app",
-      "GitHub": "https://github.com/RayhaanK/BMIcalculator.git"
+      "Title": "Surpass Fitness",
+      "Image": "https://i.postimg.cc/g25FfRQB/Screenshot_2023-07-01_105724.png",
+      "Description": "I have built and deployed an E-commerce website called Surpass Fitness using HTML5, CSS3, Bootstrap, Javascript, VueJS, NodeJS, and MySQL.",
+      "Netlify": "https://i.postimg.cc/Ghp7D6Zv/Surpass-Fitness.png",
+      "GitHub": "https://github.com/RayhaanK/Surpass-Fitness.git"
     },
     {
       "ID": 2,
+      "Title": "Point of Sale System",
+      "Image": "https://i.postimg.cc/qR2Ntp24/Screenshot_2023-07-01_105940.png",
+      "Description": "I have built and deployed a POS (Point of Sale) System using HTML5, CSS3, BOOTSTRAP, and JavaScript ES6.",
+      "Netlify": "https://rayhaan-js-endofmodule-project.netlify.app/",
+      "GitHub": "https://github.com/RayhaanK/endOfModule-JS.git"
+    },
+      {
+      "ID": 3,
+      "Title": "BMI Calculator",
+      "Image": "https://i.postimg.cc/g2nMh7jn/Screenshot_2023-07-01_104705.png",
+      "Description": "I have built and deployed a BMI (Body, Mass, Index) calculator using HTML5, CSS3, and JavaScript ES6.",
+      "Netlify": "https://rayhaan-bmicalculator.netlify.app",
+      "GitHub": "https://github.com/RayhaanK/BMIcalculator.git"
+    },
+     {
+      "ID": 4,
       "Title": "Calculator",
       "Image": "https://i.postimg.cc/g25FfRQB/Screenshot_2023-07-01_105724.png",
-      "Description": "I have built and deployed a calculator using HTML5, CSS3 and JavaScript ES6.",
+      "Description": "I have built and deployed a calculator using HTML5, CSS3, and JavaScript ES6.",
       "Netlify": "https://rayhaan-calculator.netlify.app",
       "GitHub": "https://github.com/RayhaanK/Calculator.git"
     },
     {
-      "ID": 3,
-      "Title": "Point of Sale System",
-      "Image": "https://i.postimg.cc/qR2Ntp24/Screenshot_2023-07-01_105940.png",
-      "Description": "I have built and deployed a POS (Point of Sale) System using HTML5, CSS3, BOOTSTRAP and JavaScript ES6.",
-      "Netlify": "https://rayhaan-js-endofmodule-project.netlify.app/",
-      "GitHub": "https://github.com/RayhaanK/endOfModule-JS.git"
-    },
-    {
-      "ID": 4,
+      "ID": 5,
       "Title": "First Portfolio",
       "Image": "https://i.postimg.cc/hvpV2VM2/Screenshot_2023-07-01_112657.png",
-      "Description": "I have built and deployed my first portfolio website using HTML5, CSS3 and BOOTSTRAP.",
+      "Description": "I have built and deployed my first portfolio website using HTML5, CSS3, and BOOTSTRAP.",
       "Netlify": "https://rayhaansportfolio.netlify.app",
       "GitHub": "https://github.com/RayhaanK/bootstap_Portfolio.git"
     },
     {
-      "ID": 5,
+      "ID": 6,
       "Title": "Land Of Code Of Programming",
       "Image": "https://i.postimg.cc/RFP08G5J/Screenshot_2023-07-01_112815.png",
       "Description": "I have built and deployed a replica of a website called Land Of Code Programming using HTML5, CSS3.",
       "Netlify": "https://landofcodeprogramming.netlify.app",
       "GitHub": "https://github.com/RayhaanK/website_replica.git"
-    },
-    {
-      "ID": 6,
-      "Title": "Cineplex",
-      "Image": "https://i.postimg.cc/3w9BTTry/cineplex-Website.png",
-      "Description": "I have built and deployed a home page to a made up streaming website using HTML5, CSS3.",
-      "Netlify": "https://cineplexhome.netlify.app",
-      "GitHub": "https://github.com/RayhaanK/cineplex_Home.git"
     }
   ],
   "testimonials": [
@@ -111,13 +119,13 @@
       "ID": 2,
       "Name": "Laiquah Cotie",
       "Image": "https://i.postimg.cc/5Nvjcv6v/C12-Laiquah-Cotie.jpg",
-      "Content": "Rayhaan is a hard-worker. He's a very focused and quiet person but if you need him to do anything or even help with anything he's always willing to. He's always punctual when it comes to tasks, Rayhaan is one person you'll never have to wait on for anything. He does things to the best of his ability and will put in extra to just make sure that what he does is up to your standards. Rayhaan is very motivated and eager to learn more. He is definitely someone you'd want on your team."
+      "Content": "Rayhaan is a hard worker. He's a very focused and quiet person but if you need him to do anything or even help with anything he's always willing to. He's always punctual when it comes to tasks, Rayhaan is one person you'll never have to wait on for anything. He does things to the best of his ability and will put in extra to just make sure that what he does is up to your standards. Rayhaan is very motivated and eager to learn more. He is definitely someone you'd want on your team."
     },
     {
       "ID": 3,
       "Name": "Nuraan Samodien",
       "Image": "https://i.postimg.cc/KYVRS5rP/C12-C2-Nuraan-Samsodien.jpg",
-      "Content": "Rayhaan is a highly thought intellectual from my perspective. He is passionate, ambitious, hardworking and always provides a helping hand to anyone who needs it. He has great communication and leadership skills and any company would be lucky to have him on their team."
+      "Content": "Rayhaan is a highly thought intellectual from my perspective. He is passionate, ambitious, hardworking, and always provides a helping hand to anyone who needs it. He has great communication and leadership skills and any company would be lucky to have him on their team."
     },
     {
       "ID": 4,
@@ -129,7 +137,7 @@
       "ID": 5,
       "Name": "Eighton-Lee Paulse",
       "Image": "https://i.postimg.cc/9MTsXWTx/C12-C2-Eighton-Lee-Paulse.jpg",
-      "Content": "Rayhaan is a very intuitive and intelligent person. I've learnt so much from him. He's very assertive and knows what's right and wrong. His motivation is also unmatched and he is very good at what he does. He's honestly one of the smartest people I know and I would recommend him because he is very good at what he does."
+      "Content": "Rayhaan is a very intuitive and intelligent person. I've learned so much from him. He's very assertive and knows what's right and wrong. His motivation is also unmatched and he is very good at what he does. He's honestly one of the smartest people I know and I would recommend him because he is very good at what he does."
     },
     {
       "ID": 6,
