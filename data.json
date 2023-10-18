@@ -37,17 +37,17 @@
     }
   ],
   "education": [
-    {
+        {
       "ID": 1,
-      "title": "Rylands High School",
-      "year": "2018-2022",
-      "description": "I attended Rylands High School and passed with a Bachelors Pass."
-    },
-    {
-      "ID": 2,
       "title": "Life Choices Academy",
       "year": "April 2023-September 2023",
       "description": "I finished a 6-month Full Stack Web Development Course at Life Choices Academy and achieved a certificate."
+    },
+    {
+      "ID": 2,
+      "title": "Rylands High School",
+      "year": "2018-2022",
+      "description": "I attended Rylands High School and passed with a Bachelors Pass."
     }
   ],
   "experience": [
