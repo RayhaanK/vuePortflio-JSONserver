@@ -4,35 +4,30 @@
       "ID": 1,
       "title": "HTML",
       "icon": "fa-brands fa-html5 fa-7x",
-      "mastery": "Expert",
       "description": "My experience with HTML was great. I know how to use HTML efficiently and effectively."
     },
     {
       "ID": 2,
       "title": "CSS",
       "icon": "fa-brands fa-css3-alt fa-7x",
-      "mastery": "Advanced",
       "description": "I enjoyed my experience with CSS. I know all about styling the page and how to make animations using CSS only."
     },
     {
       "ID": 3,
       "title": "BOOTSTRAP",
       "icon": "fa-brands fa-bootstrap fa-7x",
-      "mastery": "Expert",
       "description": "My experience with Bootstrap was fun. Being introduced to columns, rows, and containers changed everything for me. It allowed me to work way faster than I did before. "
     },
     {
       "ID": 4,
       "title": "JAVASCRIPT",
       "icon": "fa-brands fa-square-js fa-7x",
-      "mastery": "Advanced",
       "description": "Going into Javascript I did not know what to expect, but as I carried on learning it opened my world to many more ideas and ways to add functionality to my page."
     },
     {
       "ID": 5,
       "title": "VUEJS",
       "icon": "fa-brands fa-vuejs fa-7x",
-      "mastery": "Advanced",
       "description": "Just as I thought Javascript was mind-blowing, Vue.js appeared and blew my mind even further. With the use of components and the store, it made everything even easier than it was before."
     }
   ],
@@ -40,13 +35,13 @@
         {
       "ID": 1,
       "title": "Life Choices Academy",
-      "year": "April 2023-September 2023",
+      "year": "April 2023 - September 2023",
       "description": "I finished a 6-month Full Stack Web Development Course at Life Choices Academy and achieved a certificate."
     },
     {
       "ID": 2,
       "title": "Rylands High School",
-      "year": "2018-2022",
+      "year": "2018 - 2022",
       "description": "I attended Rylands High School and passed with a Bachelors Pass."
     }
   ],
@@ -54,7 +49,7 @@
   {
     "ID": 1,
     "title": "Life Choices Studio",
-    "year": "October 2023-Present",
+    "year": "October 2023 - Present",
     "description": "I am currently an intern at Life Choices Studio"
   }    
   ],
