@@ -34,11 +34,13 @@
       "ID": 6,
       "title": "mySQL",
       "icon": "fa-brands fa-database fa-7x",
+      "description": "Working with mySQL was interesting. Knowing how to make your own database and learning how to work with it has been exciting."
     },
     {
       "ID": 7,
       "title": "NodeJS",
       "icon": "fa-brands fa-node-js fa-7x",
+      "description": "NodeJS was all about the backend. Learning how to make a Login/Register page was amazing. I did not know NodeJS was so great to work with!"
     }
   ],
   "education": [
