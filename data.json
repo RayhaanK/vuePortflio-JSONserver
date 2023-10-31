@@ -29,6 +29,16 @@
       "title": "VUEJS",
       "icon": "fa-brands fa-vuejs fa-7x",
       "description": "Just as I thought Javascript was mind-blowing, Vue.js appeared and blew my mind even further. With the use of components and the store, it made everything even easier than it was before."
+    },
+    {
+      "ID": 6,
+      "title": "mySQL",
+      "icon": "fa-brands fa-database fa-7x",
+    },
+    {
+      "ID": 7,
+      "title": "NodeJS",
+      "icon": "fa-brands fa-node-js fa-7x",
     }
   ],
   "education": [
