@@ -90,7 +90,7 @@
       "ID": 5,
       "Title": "Random Pokemon Generator",
       "Image": "https://i.postimg.cc/tTmBWKkT/pokemon.png",
-      "Description": "I have built and deployed a random Pokemon Generator using HTML5, CSS3 and Javascript.",
+      "Description": "I have built and deployed a random Pokemon Generator using HTML5, CSS3, and Javascript.",
       "Netlify": "https://random-poke-generator.netlify.app/",
       "GitHub": "https://github.com/RayhaanK/Pokemon.git"
     },
@@ -101,7 +101,7 @@
       "Description": "I have built and deployed my first portfolio website using HTML5, CSS3, and BOOTSTRAP.",
       "Netlify": "https://rayhaansportfolio.netlify.app",
       "GitHub": "https://github.com/RayhaanK/bootstap_Portfolio.git"
-    },
+    }
     
   ],
   "testimonials": [
